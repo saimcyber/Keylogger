@@ -1,4 +1,3 @@
-# PRODIGY_CS_02
 # Windows KeyLogger
 
 ## Overview
